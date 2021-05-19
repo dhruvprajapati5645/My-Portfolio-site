@@ -1,0 +1,131 @@
+body{
+    margin: 0;
+    padding: 0;
+    
+    text-align: center;
+}
+.cloud1{
+    position: relative;
+    margin-left: 300px;
+}
+.cloud2{
+    position: relative;
+    margin-right: 300px;
+}
+.dhruv_photo{
+    width: 25%;
+    border-radius: 100%;
+    float: left;
+    border: 20px;
+}
+
+.game_img{
+    width: 25%;
+    border-radius: 100%;
+    float: right;
+    border: 20px;
+
+}
+
+.coding_img{
+    width: 25%;
+    border-radius: 100%;
+    float: left;
+    border: 20px;
+}
+
+h1{
+    margin: 0;
+    font-family: 'Pacifico', cursive;
+    font-size: 50px;
+    font-weight: normal;
+    color: #f29191;
+    
+}
+h2{
+    font-family: 'Pacifico', cursive;
+    font-size: 25px;
+    font-weight: normal;
+    color: #f29191;
+    margin-bottom: 0;
+
+}
+
+hr{
+    border: dotted #d1d9d9 ;
+    width: 20%;
+    margin-top: 60px ;
+    margin-bottom: 60px;
+}
+p{
+    font-family: 'Indie Flower', cursive;
+    font-size: 20px;
+    font-weight: bold;
+    color: #5b6d5b;
+}
+.top{
+    background-color: #d1d9d9;
+   /* height: 200px;
+    padding-top: 50px;
+   */
+}
+.profile{
+    margin: auto;
+    width: 50%;
+    padding: 20px;
+
+}
+.hobbies{
+    margin: auto;
+    width: 50%;
+    padding: 20px;
+
+
+}
+
+.skills{
+    width: 50%;
+    margin: auto;
+    padding: 20px;
+}
+
+.btn {
+    -webkit-border-radius: 13;
+    -moz-border-radius: 13;
+    border-radius: 13px;
+    font-family: Georgia;
+    color: #ffffff;
+    font-size: 19px;
+    padding: 13px;
+    background: #94d0cc;
+    text-decoration: none;
+  }
+  
+  .btn:hover {
+    background: #f29191;
+    text-decoration: none;
+  }
+
+  .mail{
+      padding: 60px;
+  }
+
+  .social_media{
+      background-color: #d1d9d9 ;
+      height: 100px;
+      padding: 40px;
+  }
+  .a{
+    font-family: serif;
+    color: #f29191;
+    font-size: 30px;
+    text-decoration: none;
+  }
+  .a:hover{
+      color: #94d0cc;
+      
+   }
+   .social_media_p{
+       font-family: serif;
+       color: #5b6d5b;
+   }
